@@ -1,0 +1,1 @@
+This repository contains a simple Python function with an unclosed parenthesis.  The error is subtle and can be easily missed during code review.  The solution demonstrates how to correctly close the parenthesis to resolve the syntax error.
